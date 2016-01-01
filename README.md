@@ -3,7 +3,8 @@
 inspiration from
 
 - https://katyhuff.github.io/wedding
-- justgrimes.github.io/wedding/
+- https://github.com/justgrimes.github.io/wedding/
+- https://github.com/thruflo/vagrant-jekyll
 
 thank you to both
 

@@ -41,4 +41,7 @@ Note on SSH-forwarding
 ---------------------
 The Vagrantfile enables ssh-forwarding so that you can use your host ssh keys to authenticate with github. Make sure to add you keys to the agent with ```ssh-add``` before running ```vagrant ssh``` if your keys aren't automatically added to the agent.
 
-changing ruby version 1.9.3 to 2.2.3
+Customization changelog
+-----------------------
+
+- changing ruby version 1.9.3 to 2.2.3
